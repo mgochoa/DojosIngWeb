@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+div#app {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/*Estilo para alinear buscador a la derecha*/
+form.searchBar {
+    float: center;
+}
+
+/*Estilo para redondear input de busqueda*/
+input {
+    border-radius: 8px;
+}
